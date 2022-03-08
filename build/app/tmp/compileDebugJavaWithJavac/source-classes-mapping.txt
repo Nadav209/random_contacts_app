@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/nadav/random_contacts_app/BuildConfig.java
+ com.nadav.random_contacts_app.BuildConfig
